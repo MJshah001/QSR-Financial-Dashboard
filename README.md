@@ -62,6 +62,8 @@ The data model consists of:
 - **9 Dimension Tables**: Providing detailed contextual information for the analysis.
 - **Measure/Parameter Tables**: Supporting dynamic calculations and custom inputs for interactive analysis.
 
+![Data Model](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Data_Model.png)
+
 ### Fact Tables
 
 1. **Fact_Actual**: Contains the business's actual performance data, including key metrics such as actual revenue and costs. This fact table is connected to multiple dimensions, allowing for detailed analysis across time, location, and product categories.
