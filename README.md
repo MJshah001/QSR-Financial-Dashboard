@@ -109,6 +109,8 @@ This section presents a high-level view of the company's overall performance thr
 
 **Dynamic User Inputs**: Users can filter data by different dimensions such as **time periods**, **regions**, and **product categories**, offering flexibility to drill down into specific performance areas.
 
+![performance analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Performance%20Analysis.JPG)
+
 ### 2. Cost Analysis
 
 A detailed breakdown of **costs** is available in this section, covering both **fixed** and **variable costs**. Understanding how costs are distributed across operations is critical for identifying inefficiencies and potential areas for cost-saving.
@@ -119,6 +121,8 @@ Key insights include:
 
 **Dynamic User Inputs**: Similar to performance analysis, users can filter cost data by **region**, **category**, and **time** to gain a granular view of cost structures.
 
+![cost analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Cost%20Analysis.JPG)
+
 ### 3. Revenue Analysis
 
 The **Revenue Analysis** section provides detailed insights into how the company generates income, highlighting top-performing regions, product categories, and time periods.
@@ -128,6 +132,8 @@ Key features include:
 - **High-performing areas**: Quickly identify which products or regions are driving the most revenue.
 
 **Dynamic User Inputs**: Users can select from different dimensions such as **region**, **category**, or **time** to explore revenue trends and identify the most profitable segments of the business.
+
+![Revenue Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Revenue%20Analysis%20SKU.JPG)
 
 ---
 
@@ -146,6 +152,7 @@ The **Pareto Analysis** uses the **80/20 rule**, showing that 80% of revenue oft
 - Users can **dynamically adjust the cutoff value** for the Pareto principle (default is set to 0.80). This flexibility allows users to change the ratio to better understand how different groupings contribute to the overall revenue. 
 - As the cutoff value is changed, **the entire chart and side table colors update automatically**, providing instant visual feedback and highlighting how the new ratio impacts the business focus.
 
+![Pareto Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Pareto%20Analysis.JPG)
 ---
 
 ### 2. Category Analysis
@@ -159,6 +166,7 @@ The **Category Analysis** focuses on analyzing the performance of different prod
 - At the top of the dashboard, users can select specific filters such as **channel**, **year**, **cluster head**, and **location**. These filters allow for a more refined analysis based on the business structure.
 - By adjusting these filters, users can focus on how different channels or locations perform over time, offering a highly customized view of category performance.
 
+![Category Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Category%20Analysis.JPG)
 ---
 
 ### 3. Profit Analysis
@@ -174,6 +182,7 @@ The **Profit Analysis** provides an in-depth look at the profit margins across v
   - **Volume View**: Shows how sales volume is affecting profit margins.
 - As users switch between these views, the chart updates in real time, offering insights into how changes in revenue or volume impact overall profitability.
 
+![Profit Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Profit%20Analysis.JPG)
 ---
 
 ### 4. PVM (Profit-Volume Mix) Analysis
@@ -187,6 +196,7 @@ The **Profit-Volume Mix (PVM) Analysis** explores the relationship between profi
 - Users can **simulate changes in pricing or volume** and observe how those changes would impact overall profitability. For example, by increasing the volume sold or adjusting the pricing, users can see the potential effects on the business's bottom line.
 - The dashboard updates dynamically to reflect the impact of these simulations, giving users a powerful tool to test different scenarios.
 
+![PVM Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/PVM%20Analysis.JPG)
 ---
 
 ### 5. Variance Analysis
@@ -200,6 +210,7 @@ The **Variance Analysis** compares actual performance against projected performa
 - Users can dynamically input values for **Revenue Variance %** and **Gross Profit Variance %**. As these values are adjusted, the lines in the chart **move dynamically**, and the colors update to reflect changes in the variance.
 - This feature allows stakeholders to quickly test different assumptions and see how these variances might affect future financial outcomes.
 
+![Variance Analysis](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Variance%20Analysis.JPG)
 ---
 
 With these advanced features and dynamic inputs, the **Business Optimization Analysis** section of the dashboard offers unparalleled flexibility and insight, enabling stakeholders to make more informed, data-driven decisions. Whether it’s identifying the top 20% of revenue-driving products, simulating profit margins based on volume, or tracking variances in projections, this section equips the business with the tools needed to optimize performance and drive growth.
@@ -236,6 +247,7 @@ Each chart includes:
 **How it helps**:  
 This analysis allows the business to closely monitor revenue performance across critical dimensions. By identifying where actual revenue falls short of or exceeds the budget, stakeholders can take targeted actions to address underperformance or capitalize on high-performing areas.
 
+![Budgeting Revenue](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Budgeting%20Analysis%20Revenue.JPG)
 ---
 
 ### 2. Actual vs Budget Financial Analysis for Cost Drivers (COGS, Packaging)
@@ -261,6 +273,7 @@ Each chart includes:
 **How it helps**:  
 This analysis provides a clear view of cost control across various dimensions, allowing the business to monitor whether costs are staying within budget. By identifying categories, locations, or teams where costs are exceeding expectations, decision-makers can take timely corrective actions to prevent budget overruns.
 
+![Budgeting COGS](https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Budgeting%20Analysis%20COGS.JPG)
 ---
 
 ### Conclusion
